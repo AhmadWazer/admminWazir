@@ -1,6 +1,6 @@
 <?php
 namespace App\Common;
-
+// dgsdsdthstfhsr
 class FileHandler{
     public static function uploadImage($file) {
         $ext = $file->extension();
